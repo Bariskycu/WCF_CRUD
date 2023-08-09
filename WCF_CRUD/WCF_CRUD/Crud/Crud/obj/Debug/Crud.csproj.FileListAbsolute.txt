@@ -1,0 +1,9 @@
+C:\Users\Casper\Desktop\Homework2\Crud\Crud\bin\Debug\Crud.exe.config
+C:\Users\Casper\Desktop\Homework2\Crud\Crud\bin\Debug\Crud.exe
+C:\Users\Casper\Desktop\Homework2\Crud\Crud\bin\Debug\Crud.pdb
+C:\Users\Casper\Desktop\Homework2\Crud\Crud\obj\Debug\Crud.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\Homework2\Crud\Crud\obj\Debug\Crud.Form1.resources
+C:\Users\Casper\Desktop\Homework2\Crud\Crud\obj\Debug\Crud.Properties.Resources.resources
+C:\Users\Casper\Desktop\Homework2\Crud\Crud\obj\Debug\Crud.csproj.GenerateResource.Cache
+C:\Users\Casper\Desktop\Homework2\Crud\Crud\obj\Debug\Crud.exe
+C:\Users\Casper\Desktop\Homework2\Crud\Crud\obj\Debug\Crud.pdb
